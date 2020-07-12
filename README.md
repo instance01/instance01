@@ -1,5 +1,5 @@
 <p float="left">
-  <img src='./pic.jpg' width='260' align="left">
+  <img src='https://github.com/instance01/instance01/blob/master/pic.jpg' width='260' align="left">
   <p float="left">
   Job: Telecommunications
   
