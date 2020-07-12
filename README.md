@@ -4,4 +4,4 @@ Research interest: Reinforcement learning ([GRAB0](https://github.com/instance01
 
 Blog: [xa0.de](blog.xa0.de/list)
 
-<img src='python.png'>
+<img src='./python.png'>
