@@ -2,7 +2,7 @@
   <img src='https://github.com/instance01/instance01/blob/master/pic.jpg' width='250' align="left">
   <p float="left">
  
-  Job: Telecommunications<br>
+  Job: Quantum Computing<br>
   Research interest: RL ([GRAB0](https://github.com/instance01/GRAB0), [fish-rl-alife](https://github.com/instance01/fish-rl-alife)), QC ([qubo-nn](https://github.com/instance01/qubo-nn))<br>
   Blog: [xa0.de](https://blog.xa0.de/list)<br>
   Current project: [alphalerts.com](https://alphalerts.com/) (alerts for stocks/options)<br>
