@@ -8,7 +8,7 @@
   
   I used to be very active in the Minecraft Bukkit plugin development scene. Most repositories on here are still from that time (but this is just a snapshot, I think it was 300 plugins over a span of ~3 years). At some point I did a lot of projects on a private [cgit](https://pi.instancedev.com/cgit/). Mostly application development and experiments (potential startup ideas), also some web reverse engineering and crawling. This helped with [Twitch-HLS-Adblock](https://github.com/instance01/Twitch-HLS-AdBlock). I created [alphalerts.com](https://alphalerts.com/), published a few research publications in the space of Quantum Computing and Machine Learning. Currently am building [rhome](https://www.rhome.world/), a B2B SaaS solving compliance in global employee mobility.
   
-  If you have questions, would like to propose a project or want to add me on [LinkedIn](https://www.linkedin.com/in/daniel-ratke/), don't hesitate to contact me via E-Mail (see on the left).
+  If you have questions, would like to propose a project or want to add me on [LinkedIn](https://www.linkedin.com/in/daniel-ratke/), don't hesitate to contact me via [E-Mail](mailto:whodis@instancedev.com). If you are a dev - I always have open positions in Fullstack and AI.
   
   Picture by [SAU](https://twitter.com/bysau_/status/1281590003701813254).
   </p>
